@@ -1,1 +1,7 @@
 /scss
+/.nova
+.DS_Store
+.gitattributes
+/scss/bootstrap-grid.css
+/scss/bootstra-reboot.css
+/scss/bootstrap-utilities.css

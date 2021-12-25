@@ -1,3 +1,5 @@
 {
-  "VineCode.Sass.outputPath" : "\/css"
+  "VineCode.Sass.outputPath" : "\/css",
+  "VineCode.Sass.sourceMap" : "None",
+  "VineCode.Sass.updatePath" : "\/css"
 }
