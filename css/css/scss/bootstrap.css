@@ -11754,6 +11754,7 @@ header.masthead .site-heading .h1 {
 
 .post-preview > a {
   color: #212529;
+  font-weight: 700;
 }
 
 .post-preview > a:focus, .post-preview > a:hover {

@@ -48,7 +48,7 @@
   --bs-black-rgb: 0, 0, 0;
   --bs-body-color-rgb: 33, 37, 41;
   --bs-body-bg-rgb: 255, 255, 255;
-  --bs-font-sans-serif: "Helvetica Neue", "Helvetica", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --bs-font-sans-serif: system-ui, -apple-system, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
   --bs-body-font-family: var(--bs-font-sans-serif);
@@ -70,7 +70,6 @@
     scroll-behavior: smooth;
   }
 }
-
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
@@ -106,39 +105,39 @@ h6, h5, h4, h3, h2, h1 {
 h1 {
   font-size: calc(1.375rem + 1.5vw);
 }
+
 @media (min-width: 1200px) {
   h1 {
     font-size: 2.5rem;
   }
 }
-
 h2 {
   font-size: calc(1.325rem + 0.9vw);
 }
+
 @media (min-width: 1200px) {
   h2 {
     font-size: 2rem;
   }
 }
-
 h3 {
   font-size: calc(1.3rem + 0.6vw);
 }
+
 @media (min-width: 1200px) {
   h3 {
     font-size: 1.75rem;
   }
 }
-
 h4 {
   font-size: calc(1.275rem + 0.3vw);
 }
+
 @media (min-width: 1200px) {
   h4 {
     font-size: 1.5rem;
   }
 }
-
 h5 {
   font-size: 1.25rem;
 }
@@ -231,6 +230,7 @@ a {
   color: #2978ec;
   text-decoration: underline;
 }
+
 a:hover {
   color: #2160bd;
 }
@@ -246,7 +246,7 @@ kbd,
 samp {
   font-family: var(--bs-font-monospace);
   font-size: 1em;
-  direction: ltr /* rtl:ignore */;
+  direction: ltr;
   unicode-bidi: bidi-override;
 }
 
@@ -257,6 +257,7 @@ pre {
   overflow: auto;
   font-size: 0.875em;
 }
+
 pre code {
   font-size: inherit;
   color: inherit;
@@ -268,6 +269,7 @@ code {
   color: #d63384;
   word-wrap: break-word;
 }
+
 a > code {
   color: inherit;
 }
@@ -279,6 +281,7 @@ kbd {
   background-color: #212529;
   border-radius: 0.2rem;
 }
+
 kbd kbd {
   padding: 0;
   font-size: 1em;
@@ -357,6 +360,7 @@ select {
 select {
   word-wrap: normal;
 }
+
 select:disabled {
   opacity: 1;
 }
@@ -371,6 +375,7 @@ button,
 [type=submit] {
   -webkit-appearance: button;
 }
+
 button:not(:disabled),
 [type=button]:not(:disabled),
 [type=reset]:not(:disabled),
@@ -402,6 +407,7 @@ legend {
   font-size: calc(1.275rem + 0.3vw);
   line-height: inherit;
 }
+
 @media (min-width: 1200px) {
   legend {
     font-size: 1.5rem;
@@ -475,5 +481,8 @@ progress {
 [hidden] {
   display: none !important;
 }
+
+/*# sourceMappingURL=bootstrap-reboot.css.map */
+/*# sourceMappingURL=bootstrap-reboot.css.map */
 
 /*# sourceMappingURL=bootstrap-reboot.css.map */
