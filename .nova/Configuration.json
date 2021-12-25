@@ -1,6 +1,5 @@
 {
-  "VineCode.Sass.cssStyle" : "Compressed",
-  "VineCode.Sass.outputPath" : "\/assets",
+  "VineCode.Sass.cssStyle" : "Expanded",
   "VineCode.Sass.sourceMap" : "None",
   "VineCode.Sass.workspaceEnable" : true
 }
