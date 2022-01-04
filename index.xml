@@ -81,19 +81,19 @@
     
     <item>
       <title>NIF event: Interviewing Thomas Friedman</title>
-      <link>https://liamgetreu.com/posts/interview-kevin-rudd/</link>
+      <link>https://liamgetreu.com/posts/interview-thomas-friedman/</link>
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://liamgetreu.com/posts/interview-kevin-rudd/</guid>
+      <guid>https://liamgetreu.com/posts/interview-thomas-friedman/</guid>
       <description>This week I interviewed New York Times columnist Thomas Friedman about the US election, the Trump presidency and the Middle East.</description>
     </item>
     
     <item>
       <title>NIF event: Interviewing Kevin Rudd</title>
-      <link>https://liamgetreu.com/posts/interview-thomas-friedman/</link>
+      <link>https://liamgetreu.com/posts/interview-kevin-rudd/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://liamgetreu.com/posts/interview-thomas-friedman/</guid>
+      <guid>https://liamgetreu.com/posts/interview-kevin-rudd/</guid>
       <description>As a former prime minister and foreign minister, there are few people with a better understanding of Australia’s role in the world and our history with the Israeli-Palestinian conflict than Kevin Rudd.</description>
     </item>
     
@@ -117,10 +117,10 @@
     
     <item>
       <title>Discussing the Trump deal, Israeli annexation, elections and President Rivlin’s visit to Australia on ABC News</title>
-      <link>https://liamgetreu.com/posts/abc-nation-state-law/</link>
+      <link>https://liamgetreu.com/posts/abc-trump-deal/</link>
       <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://liamgetreu.com/posts/abc-nation-state-law/</guid>
+      <guid>https://liamgetreu.com/posts/abc-trump-deal/</guid>
       <description>The White House has hailed the Middle East peace plan the &amp;quot;deal of the century&amp;quot;, but Palestinian leaders are calling it a conspiracy - @liamget from @NIFAustralia tells @bevvo14 whether the deal could lead to more conflict.</description>
     </item>
     
@@ -134,15 +134,6 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://liamgetreu.com/about/</link>
-      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://liamgetreu.com/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache License 2.</description>
-    </item>
-    
-    <item>
       <title>On the Australian government’s decision to recognise West Jerusalem</title>
       <link>https://liamgetreu.com/posts/australia-jerusalem-embassy/</link>
       <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
@@ -153,10 +144,10 @@
     
     <item>
       <title>Discussing Israel’s new &#39;Nation-State Law&#39; on ABC News The World</title>
-      <link>https://liamgetreu.com/posts/abc-trump-deal/</link>
+      <link>https://liamgetreu.com/posts/abc-nation-state/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://liamgetreu.com/posts/abc-trump-deal/</guid>
+      <guid>https://liamgetreu.com/posts/abc-nation-state/</guid>
       <description>   </description>
     </item>
     
@@ -185,6 +176,15 @@
       
       <guid>https://liamgetreu.com/posts/politicians-pandering/</guid>
       <description>My op-ed on the Republican primaries was published in ABC&amp;rsquo;s The Drum:</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://liamgetreu.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://liamgetreu.com/about/</guid>
+      <description>Welcome to my website. Here I’ve collected some articles I’ve written, events I’ve been part of, and times I’ve been interviewed/quoted in the media.</description>
     </item>
     
   </channel>
