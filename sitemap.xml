@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://liamgetreu.com/tags/arts-culture/</loc>
+    <lastmod>2022-01-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://liamgetreu.com/tags/australia/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -137,6 +140,15 @@
     <loc>https://liamgetreu.com/tags/united-states-of-america/</loc>
     <lastmod>2021-02-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://liamgetreu.com/tags/achinoam-nini/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liamgetreu.com/tags/mira-awad/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liamgetreu.com/posts/noa-mira-awad-hanukkah/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://liamgetreu.com/tags/donald-trump/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -221,5 +233,7 @@
     <loc>https://liamgetreu.com/about/</loc>
   </url><url>
     <loc>https://liamgetreu.com/archives/</loc>
+  </url><url>
+    <loc>https://liamgetreu.com/tags/</loc>
   </url>
 </urlset>
