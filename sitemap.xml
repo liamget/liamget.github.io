@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://liamgetreu.com/</loc>
+    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liamgetreu.com/posts/</loc>
+    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liamgetreu.com/tags/</loc>
+    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liamgetreu.com/posts/coalition-collapse-2022/</loc>
+    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://liamgetreu.com/tags/video/</loc>
+    <lastmod>2022-06-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://liamgetreu.com/tags/anthony-albanese/</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,22 +29,13 @@
     <loc>https://liamgetreu.com/tags/labor/</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liamgetreu.com/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://liamgetreu.com/tags/op-ed/</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://liamgetreu.com/tags/penny-wong/</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://liamgetreu.com/posts/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://liamgetreu.com/tags/recognition-of-palestine/</loc>
-    <lastmod>2022-05-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://liamgetreu.com/tags/</loc>
     <lastmod>2022-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://liamgetreu.com/tags/benjamin-netanyahu/</loc>
@@ -147,9 +153,6 @@
     <lastmod>2021-04-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://liamgetreu.com/posts/election-preview-2021/</loc>
-    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://liamgetreu.com/tags/video/</loc>
     <lastmod>2021-03-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://liamgetreu.com/tags/joe-biden/</loc>
